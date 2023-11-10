@@ -5,7 +5,7 @@ TDS:Loadout("Accelerator", "DJ Booth", "Commander", "Scout", "Farm")
 TDS:Map("Winter Bridges", true, "Survival")
 TDS:Mode('Normal' --[[ !DONT TOUCH! THIS IS CORRECT, IN GAME FILES Molten IS NAMED Normal ]])
 
-wait(21)
+wait(21) then
 
 TDS:Place('Scout', 30.301233291625977, 1.0000044107437134, -24.035497665405273, 0, 0, 15.3, false, 0, 0, 0, false)
 TDS:Place('Scout', 30.301233291625977, 1.0000025033950806, -18.909883499145508, 0, 0, 15.2, false, 0, 0, 0, false)
